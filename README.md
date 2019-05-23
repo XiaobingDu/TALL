@@ -22,3 +22,6 @@ I did some anno cleaning for Charades-STA (compared to the version I used in ICC
 | CTRL (aln)       |   17.69     |    5.91     |    55.54    |     23.79   |
 | CTRL (reg-p)     |   19.22     |    6.64     |    57.98    |     25.22   |
 | CTRL (reg-np)    |   21.42     |    7.15     |    59.11    |     26.91   |
+
+
+### modifying for python3.6
